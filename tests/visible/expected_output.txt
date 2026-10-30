@@ -1,0 +1,16 @@
+Built playlist (4 songs):
+Espresso
+Levitating
+Anti-Hero
+Blinding Lights
+
+After delete_head (3 songs):
+Levitating
+Anti-Hero
+Blinding Lights
+
+After a second delete_head (2 songs):
+Anti-Hero
+Blinding Lights
+
+Freed the rest of the playlist.

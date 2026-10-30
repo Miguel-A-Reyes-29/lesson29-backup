@@ -1,0 +1,15 @@
+# Build artifacts
+*.o
+playlist
+*.obj
+*.exe
+a.out
+
+# Editor files
+*~
+*.swp
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
