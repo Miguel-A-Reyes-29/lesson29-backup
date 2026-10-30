@@ -1,6 +1,6 @@
 /* CS210 Lesson 28 - Lab 28: Playlist Builder
  *
- * Documentation: "I received in class EI on this assignment. I could however not wrap my head around the test file and HAD CHATGPT WRITE IT. all other work is my own. here is the chatgpt link: https://chatgpt.com/share/6ae26ece-a374-83e8-8750-ffa07bf9a52d"
+ * Documentation: " I could however not wrap my head around the test file and HAD CHATGPT WRITE IT. all other work is my own. here is the chatgpt link: https://chatgpt.com/share/6ae26ece-a374-83e8-8750-ffa07bf9a52d"
  *   (see README "Documentation statement": covers GenAI, internet
  *   sources, and help from any person; keep it on the line above)
  *
